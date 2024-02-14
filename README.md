@@ -25,5 +25,9 @@ The project addresses the following problem statements:
 2. **Overview Dashboard**: Visualizes critical loan-related metrics and trends using a variety of chart types, including line charts, filled maps, donut charts, bar charts, and treemaps. Offers insights into monthly trends, regional analysis, loan term analysis, employee length analysis, loan purpose breakdown, and home ownership analysis.
 3. **Details Dashboard**: Offers a consolidated view of all essential loan data points, enabling users to access detailed insights into the loan portfolio, borrower profiles, and loan performance.
 
+![Screenshot (56)](https://github.com/bansiyar097/Bank-loan-reports/assets/155131566/f4b01214-35b6-494b-bac6-8138dfd196ff)
+
+
+
 ## Results and Conclusion
 The Tableau project successfully addresses the problem statements by providing comprehensive visualizations of key loan-related metrics and trends. The dashboards offer valuable insights into lending activities, loan performance, borrower profiles, and regional disparities. The project enables data-driven decision-making, supports strategic planning within lending operations, and facilitates efficient access to critical loan data.
